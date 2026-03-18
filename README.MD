@@ -79,6 +79,7 @@ https://github.com/user-attachments/assets/3a2079df-750e-498d-ae74-9608a988e551
 - Node.js and npm
 - Python and FastAPI
 - Prisma setup for database configuration
+- Open ai api
 
 ### Installation
 

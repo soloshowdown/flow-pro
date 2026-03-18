@@ -1,4 +1,4 @@
-<h1 align="center" id="title">FlowPro </h1>
+<h2 align="center" id="title">FlowPro </h2>
 
 **FlowPro** is a powerful tool for developers to effortlessly design, build, and deploy backend systems by creating ER diagrams through an intuitive frontend UI, a form-based entity editor, or by directly inputting JSON. FlowPro takes your entity relationships and generates a full Express backend, complete with Prisma ORM, authentication, body validation, parsing, and an admin panel with Next.js for managing data—all without writing a line of code. You can also leverage AI to generate ER diagrams from project requirement docs or prompts.
 
